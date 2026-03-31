@@ -1,0 +1,12 @@
+[
+  {
+    "fullName": "Test User",
+    "email": "testuser@example.com",
+    "passwordHash": "scrypt:32768:8:1$CUIQQj38qx94AOlT$b3ec599d0b869d2e68c58eb0b028adfba12af196530f2c869d45c29c20578464fe8705a286b699cc948e54fb6d75955ba125032bed46d97e9a66b46054c6cbd5"
+  },
+  {
+    "fullName": "Arnab",
+    "email": "arnabsahana47@gmail.com",
+    "passwordHash": "scrypt:32768:8:1$1vY8m8C0OP1eBj1l$b60f801d16f36fa2f561d3f4e155cca206ebcba027426a6f2d52ab39404f52580490f1002a48ed9aa53bb770aed25ac390fe04bc55bf37cf6c94bcf1e995bf96"
+  }
+]
